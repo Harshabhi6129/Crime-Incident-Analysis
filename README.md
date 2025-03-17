@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### 2. Running the Code
 Execute the Jupyter Notebook or Python script:
 ```sh
-jupyter notebook a0_part_2_harshaab.ipynb
+jupyter notebook crime_analysis.ipynb
 ```
 
 ### 3. Training the Models
