@@ -11,6 +11,7 @@ The dataset contains records of crime incidents with categorical and numerical a
 - **Features**: 6 (after preprocessing)
 - **Target Variable**: "Incident Type Primary"
 - **Missing Values**: Address, Latitude, and Longitude were cleaned and imputed.
+  Link of the dataset: https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu/about_data
 
 ## Data Preprocessing
 ### 1. Handling Missing Values
